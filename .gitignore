@@ -5,6 +5,12 @@ target/
 !**/src/test/**/target/
 out/production
 
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
 ### STS ###
 .apt_generated
 .classpath
@@ -13,12 +19,6 @@ out/production
 .settings
 .springBeans
 .sts4-cache
-
-### IntelliJ IDEA ###
-.idea/
-*.iws
-*.iml
-*.ipr
 
 ### NetBeans ###
 /nbproject/private/
